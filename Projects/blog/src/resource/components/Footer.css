@@ -1,0 +1,15 @@
+
+.myfooter {
+    background-color: rgb(174, 141, 204);
+    /* height: 4rem; */
+    margin-top: auto;
+}
+
+/* .myfooter p {
+    line-height: 4rem;
+} */
+
+.myfooter img{
+    width: 35px;
+    margin-top: 7px;
+}
