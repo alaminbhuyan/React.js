@@ -1,0 +1,39 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "studentName": "Alamin bhuyan",
+      "studentEmail": "alaminbhuyan433@gmail.com"
+    },
+    {
+      "id": 2,
+      "studentName": "Farhan Abir",
+      "studentEmail": "farhanbhuyan333@gmail.com"
+    },
+    {
+      "studentName": "Tania Akter",
+      "studentEmail": "taniaakter123@gmail.com",
+      "id": 4
+    },
+    {
+      "studentName": "Mariy akter",
+      "studentEmail": "mariaakter345@gmail.com",
+      "id": 5
+    },
+    {
+      "studentName": "Nahid Hasan",
+      "studentEmail": "nahidbhuyan321@gmail.com",
+      "id": 6
+    },
+    {
+      "studentName": "Jakir hossain",
+      "studentEmail": "jakirhossain354@gmail.com",
+      "id": 7
+    },
+    {
+      "studentName": "Mim akter",
+      "studentEmail": "mimakter44@gmail.com",
+      "id": 8
+    }
+  ]
+}
